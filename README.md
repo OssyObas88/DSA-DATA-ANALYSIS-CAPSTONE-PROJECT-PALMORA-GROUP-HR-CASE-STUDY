@@ -1,13 +1,5 @@
 # DSA DATA ANALYSIS CAPSTONE PROJECT PALMORA GROUP HR CASE STUDY
-This is my project work after the training organised by DSA. This repository is based on the final project work in the DSA Data Analysis training where students were given 3 files to work on but to analyze 2 out of the 3. This repository is on the case 3 study (Palmora Group HR). 
-
-## Objectives
-
-- Evaluate gender distribution across departments and regions
-- Identify salary disparities and compliance with minimum wage policy
-- Detect gender-based pay gaps
-- Calculate performance-based bonuses
-- Recommend strategic HR interventions
+This is my project work after the training organised by DSA. This repository is based on the final project work in the DSA Data Analysis training where students were given 3 files to work on but to analyze 2 out of the 3. This repository is the case 3 study (Palmora Group HR). 
 
 ## Steps taken to clean the data set
 - I started by using countblank function to determine the number of blanks that needed to be filled.
@@ -71,8 +63,8 @@ Salary Count by Department and Region = COUNT('Employee'[Salary])`
 - **Implement inclusive policies** encouraging gender disclosure (with privacy)
 - **Standardize rating systems** to reduce bias in performance assessment
 - **Use dashboards regularly** to monitor improvements
--	Implement equitable pay practices, focusing on regions and departments with the largest disparities.
--	Develop gender inclusion programs and encourage voluntary gender disclosure with privacy assurance.
--	Review and standardize performance evaluation criteria to avoid potential bias.
--	Use dashboard insights regularly to track improvements and support evidence-based HR planning.
-- This analysis equips Palmoria Group with the knowledge to transition toward a more inclusive, fair, and compliant workplace culture.
+-	**Implement equitable pay practices**, focusing on regions and departments with the largest disparities.
+-	**Develop gender inclusion programs** and encourage voluntary gender disclosure with privacy assurance.
+-	**Review and standardize performance** evaluation criteria to avoid potential bias.
+-	**Use dashboard insights** regularly to track improvements and support evidence-based HR planning.
+- **This analysis equips Palmoria Group** with the knowledge to transition toward a more inclusive, fair, and compliant workplace culture.
